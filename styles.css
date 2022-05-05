@@ -1,0 +1,23 @@
+body {
+    color: indigo;
+    font-family: orbitron;
+}
+//body {background-color: #b1C4F7;}
+
+img {
+    height : 50px;
+}
+body {
+  margin: auto;
+  width: 50%;
+  border: 50px solid #E1C4F7;
+  padding: 30px;
+}body {
+  background-image: radial-gradient(#E1C4F7, #b1C4F7);
+}
+/*your hair's great today!*/
+.game{
+    color:#651973;
+    opacity:50;
+    font-family:'press start 2p';
+}
